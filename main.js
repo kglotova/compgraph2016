@@ -15,9 +15,9 @@ function init(){
 	polarGrid.rings[4] = 32;
 	polarGrid.rings[5] = 32;
 	polarGrid.rings[6] = 64;
-	polarGrid.rings[7] =64;
-	polarGrid.rings[8] =128;
-	polarGrid.rings[9] =128
+	//polarGrid.rings[7] =64;
+	//polarGrid.rings[8] =128;
+	//polarGrid.rings[9] =128
 	var ringHeight = 35;
 	for (var i = 0; i < 10; i++){
 		for (var j = 0; j < polarGrid.rings[i]; j++)
